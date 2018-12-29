@@ -430,7 +430,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.Flatbed_Bw_High);
             this.Name = "Main";
-            this.Text = "Form1";
+            this.Text = "ScanDash";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
